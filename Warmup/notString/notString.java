@@ -6,7 +6,6 @@ class Main {
 	}
 }
 
-
 public class notString{
 	public String NotString(String str) {
 		if (str.length() >= 3 && str.substring(0, 3).equals("not")) {

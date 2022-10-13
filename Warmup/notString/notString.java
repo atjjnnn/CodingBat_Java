@@ -2,7 +2,7 @@
 class Main {
 	public static void main(String[] args) {
 		notString str = new notString();
-		str.NotString("not");
+		System.out.println(str.NotString("George"));
 	}
 }
 

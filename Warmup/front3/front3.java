@@ -1,4 +1,4 @@
-public String front3(String str) {
+  public String front3(String str) {
   String front;
 
   if (str.length() >= 3) {
